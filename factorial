@@ -1,0 +1,10 @@
+int num, p, res=1
+
+printf("Enter a number ");
+scanf("%d", &num);
+for(p=1;p<=nump++)
+
+res=res*p;
+printf("Factorial s %d", res);
+
+return 0;
